@@ -83,7 +83,7 @@ insert into course_level (
 	description
 ) values (
 	'principiante',
-	'este curaso es para personas sin ningun conocimiento del tema o con un conocimiento muy bajo.'
+	'este curso es para personas sin ningun conocimiento del tema o con un conocimiento muy bajo.'
 ), (
 	'medio',
 	'este cursos es para personas con un conocimiento ni muy alto ni muy bajo del tema'
